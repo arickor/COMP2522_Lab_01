@@ -9,7 +9,15 @@ package org.bcit.comp2522.labs.lab01;
  *
  */
 public class Main {
+
+  /**
+   * Drives the program.
+   *
+   * @param args unused
+   */
   public static void main(String[] args) {
+
     System.out.println("My favourite animal is the giant panda!");
+
   }
 }
