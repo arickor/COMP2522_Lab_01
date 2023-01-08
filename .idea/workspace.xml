@@ -1,10 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c766c88-da70-478c-a57f-f8bee471446c" name="Changes" comment="added a Javadoc to the main method">
+    <list default="true" id="0c766c88-da70-478c-a57f-f8bee471446c" name="Changes" comment="added library to root and updated build.gradle">
+      <change afterPath="$PROJECT_DIR$/library/core.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/gluegen-rt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/jogl-all.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libgluegen_rt.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libjogl_desktop.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libjogl_mobile.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnativewindow_awt.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnativewindow_drm.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnativewindow_x11.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnewt_drm.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnewt_head.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libgluegen_rt.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libjogl_desktop.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libjogl_mobile.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnativewindow_awt.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnativewindow_drm.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnativewindow_x11.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnewt_drm.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnewt_head.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libgluegen_rt.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libjogl_desktop.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libjogl_mobile.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnativewindow_awt.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnativewindow_drm.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnativewindow_x11.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnewt_drm.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnewt_head.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libgluegen_rt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libjogl_desktop.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libjogl_mobile.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libnativewindow_awt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libnativewindow_macosx.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libnewt_head.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libgluegen_rt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libjogl_desktop.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libjogl_mobile.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libnativewindow_awt.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libnativewindow_macosx.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libnewt_head.dylib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/fenster.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/gluegen_rt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/jogl_desktop.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/jogl_mobile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/nativewindow_awt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/nativewindow_win32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/windows-amd64/newt_head.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/labs/lab01/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
@@ -18,6 +65,38 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FizzBuzz" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="FizzBuzz" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -27,6 +106,7 @@
   <component name="ProjectId" id="2K1DJ43zMl0BQAIQtN7QaMsTLke" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,6 +114,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -42,11 +123,12 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "MTConfigurable",
+    "settings.build.tools.auto.reload": "ALL",
+    "settings.editor.selected.configurable": "build.tools",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Window">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.bcit.comp2522.labs.lab01.Main" />
       <module name="FizzBuzz.main" />
@@ -60,8 +142,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bcit.comp2522.labs.lab01.Window" />
+      <module name="FizzBuzz.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bcit.comp2522.labs.lab01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Window" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -75,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673133120075</updated>
       <workItem from="1673133121243" duration="3403000" />
-      <workItem from="1673139683829" duration="3022000" />
+      <workItem from="1673139683829" duration="6490000" />
     </task>
     <task id="LOCAL-00001" summary="refactored package names">
       <created>1673133441549</created>
@@ -105,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673147025685</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added library to root and updated build.gradle">
+      <created>1673147251660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673147251660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,11 +226,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="refactored package names" />
     <MESSAGE value="refactored package names and added unique print line" />
     <MESSAGE value="fixed Checkstyle errors" />
     <MESSAGE value="added a Javadoc to the main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a Javadoc to the main method" />
+    <MESSAGE value="added library to root and updated build.gradle" />
+    <option name="LAST_COMMIT_MESSAGE" value="added library to root and updated build.gradle" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
