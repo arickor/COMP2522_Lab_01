@@ -20,12 +20,16 @@ public class Window extends PApplet {
   }
 
   /**
-   * Draws an ellipse to the window.
+   * Draws a snowman using 5 types of 2D primitives to the window.
    */
   public void draw() {
     circle(500, 300, 120);
     circle(500, 435, 170);
-    ellipse(224, 184, 220, 220);
+    ellipse(500, 620, 240, 220);
+    triangle(500, 150, 400, 250, 600, 250);
+    square(470, 275, 10);
+    square(510, 275, 10);
+    line(430, 320, 500, 320);
   }
 
   /**

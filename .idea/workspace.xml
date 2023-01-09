@@ -4,56 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c766c88-da70-478c-a57f-f8bee471446c" name="Changes" comment="added library to root and updated build.gradle">
-      <change afterPath="$PROJECT_DIR$/library/core.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/gluegen-rt.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/jogl-all.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libgluegen_rt.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libjogl_desktop.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libjogl_mobile.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnativewindow_awt.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnativewindow_drm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnativewindow_x11.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnewt_drm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-aarch64/libnewt_head.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libgluegen_rt.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libjogl_desktop.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libjogl_mobile.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnativewindow_awt.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnativewindow_drm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnativewindow_x11.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnewt_drm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-amd64/libnewt_head.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libgluegen_rt.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libjogl_desktop.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libjogl_mobile.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnativewindow_awt.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnativewindow_drm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnativewindow_x11.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnewt_drm.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/linux-arm/libnewt_head.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libgluegen_rt.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libjogl_desktop.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libjogl_mobile.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libnativewindow_awt.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libnativewindow_macosx.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-aarch64/libnewt_head.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libgluegen_rt.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libjogl_desktop.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libjogl_mobile.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libnativewindow_awt.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libnativewindow_macosx.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/macos-x86_64/libnewt_head.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/fenster.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/gluegen_rt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/jogl_desktop.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/jogl_mobile.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/nativewindow_awt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/nativewindow_win32.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/library/windows-amd64/newt_head.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/labs/lab01/Window.java" afterDir="false" />
+    <list default="true" id="0c766c88-da70-478c-a57f-f8bee471446c" name="Changes" comment="added Window">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/labs/lab01/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/bcit/comp2522/labs/lab01/Window.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673133120075</updated>
       <workItem from="1673133121243" duration="3403000" />
-      <workItem from="1673139683829" duration="6490000" />
+      <workItem from="1673139683829" duration="10521000" />
     </task>
     <task id="LOCAL-00001" summary="refactored package names">
       <created>1673133441549</created>
@@ -208,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673147251660</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added Window">
+      <created>1673169004009</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673169004009</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +192,8 @@
     <MESSAGE value="fixed Checkstyle errors" />
     <MESSAGE value="added a Javadoc to the main method" />
     <MESSAGE value="added library to root and updated build.gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="added library to root and updated build.gradle" />
+    <MESSAGE value="added Window" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Window" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
